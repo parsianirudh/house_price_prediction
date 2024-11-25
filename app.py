@@ -30,7 +30,7 @@ import joblib
 # st.set_page_config(page_title="House Price Prediction Dashboard", layout="wide")
 
 # Page configuration
-page_title = "House Price Dashboard"
+page_title = "Housing Market Analysis and Prediction Tool"
 page_icon = ":house:"
 layout = "centered"
 
